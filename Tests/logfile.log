@@ -1,0 +1,234 @@
+2021-05-04 09:20:20,126 - test_submitForm - INFO - setting up name
+2021-05-04 09:20:20,200 - test_submitForm - INFO - setting up email
+2021-05-04 09:20:20,272 - test_submitForm - INFO - setting up password
+2021-05-04 09:20:20,336 - test_submitForm - INFO - setting up gender
+2021-05-04 09:20:20,492 - test_submitForm - INFO - test from application is×
+Success! The Form has been submitted successfully!.
+2021-05-04 09:20:20,963 - test_submitForm - INFO - setting up name
+2021-05-04 09:20:20,963 - test_submitForm - INFO - setting up name
+2021-05-04 09:20:21,029 - test_submitForm - INFO - setting up email
+2021-05-04 09:20:21,029 - test_submitForm - INFO - setting up email
+2021-05-04 09:20:21,099 - test_submitForm - INFO - setting up password
+2021-05-04 09:20:21,099 - test_submitForm - INFO - setting up password
+2021-05-04 09:20:21,159 - test_submitForm - INFO - setting up gender
+2021-05-04 09:20:21,159 - test_submitForm - INFO - setting up gender
+2021-05-04 09:20:21,294 - test_submitForm - INFO - test from application is×
+Success! The Form has been submitted successfully!.
+2021-05-04 09:20:21,294 - test_submitForm - INFO - test from application is×
+Success! The Form has been submitted successfully!.
+2021-05-04 09:27:38,823 - test_submitForm - INFO - setting up name as:  Marco
+2021-05-04 09:27:38,895 - test_submitForm - INFO - setting up email as: marco.moro1@gmail
+2021-05-04 09:27:38,968 - test_submitForm - INFO - setting up password as: 1234
+2021-05-04 09:27:39,025 - test_submitForm - INFO - setting up gender as: Male
+2021-05-04 09:27:39,157 - test_submitForm - INFO - test from application is×
+Success! The Form has been submitted successfully!.
+2021-05-04 09:27:39,703 - test_submitForm - INFO - setting up name as:  Gino
+2021-05-04 09:27:39,703 - test_submitForm - INFO - setting up name as:  Gino
+2021-05-04 09:27:39,789 - test_submitForm - INFO - setting up email as: Gino@gmail.com
+2021-05-04 09:27:39,789 - test_submitForm - INFO - setting up email as: Gino@gmail.com
+2021-05-04 09:27:39,881 - test_submitForm - INFO - setting up password as: 1234
+2021-05-04 09:27:39,881 - test_submitForm - INFO - setting up password as: 1234
+2021-05-04 09:27:39,957 - test_submitForm - INFO - setting up gender as: Female
+2021-05-04 09:27:39,957 - test_submitForm - INFO - setting up gender as: Female
+2021-05-04 09:27:40,138 - test_submitForm - INFO - test from application is×
+Success! The Form has been submitted successfully!.
+2021-05-04 09:27:40,138 - test_submitForm - INFO - test from application is×
+Success! The Form has been submitted successfully!.
+2021-05-04 09:35:00,137 - test_submitForm - INFO - setting up name as:  Marco
+2021-05-04 09:35:00,233 - test_submitForm - INFO - setting up email as: marco.moro1@gmail
+2021-05-04 09:35:00,339 - test_submitForm - INFO - setting up password as: 1234
+2021-05-04 09:35:00,409 - test_submitForm - INFO - setting up gender as: Male
+2021-05-04 09:35:00,560 - test_submitForm - INFO - test from application is: ×
+Success! The Form has been submitted successfully!.
+2021-05-04 09:35:01,057 - test_submitForm - INFO - setting up name as:  Gino
+2021-05-04 09:35:01,057 - test_submitForm - INFO - setting up name as:  Gino
+2021-05-04 09:35:01,136 - test_submitForm - INFO - setting up email as: Gino@gmail.com
+2021-05-04 09:35:01,136 - test_submitForm - INFO - setting up email as: Gino@gmail.com
+2021-05-04 09:35:01,222 - test_submitForm - INFO - setting up password as: 1234
+2021-05-04 09:35:01,222 - test_submitForm - INFO - setting up password as: 1234
+2021-05-04 09:35:01,297 - test_submitForm - INFO - setting up gender as: Female
+2021-05-04 09:35:01,297 - test_submitForm - INFO - setting up gender as: Female
+2021-05-04 09:35:01,456 - test_submitForm - INFO - test from application is: ×
+Success! The Form has been submitted successfully!.
+2021-05-04 09:35:01,456 - test_submitForm - INFO - test from application is: ×
+Success! The Form has been submitted successfully!.
+2021-05-04 10:04:33,919 - test_submitForm - INFO - setting up name as:  Marco
+2021-05-04 10:04:33,995 - test_submitForm - INFO - setting up email as: marco.moro1@gmail
+2021-05-04 10:04:34,065 - test_submitForm - INFO - setting up password as: 1234
+2021-05-04 10:04:34,125 - test_submitForm - INFO - setting up gender as: Male
+2021-05-04 10:04:34,255 - test_submitForm - INFO - test from application is: ×
+Success! The Form has been submitted successfully!.
+2021-05-04 10:04:34,273 - test_submitForm - INFO - setting up name as:  Gino
+2021-05-04 10:04:34,273 - test_submitForm - INFO - setting up name as:  Gino
+2021-05-04 10:04:34,322 - test_submitForm - INFO - setting up email as: Gino@gmail.com
+2021-05-04 10:04:34,322 - test_submitForm - INFO - setting up email as: Gino@gmail.com
+2021-05-04 10:04:34,371 - test_submitForm - INFO - setting up password as: 1234
+2021-05-04 10:04:34,371 - test_submitForm - INFO - setting up password as: 1234
+2021-05-04 10:04:34,427 - test_submitForm - INFO - setting up gender as: Female
+2021-05-04 10:04:34,427 - test_submitForm - INFO - setting up gender as: Female
+2021-05-04 10:04:34,541 - test_submitForm - INFO - test from application is: ×
+Success! The Form has been submitted successfully!.
+2021-05-04 10:04:34,541 - test_submitForm - INFO - test from application is: ×
+Success! The Form has been submitted successfully!.
+2021-05-04 10:13:11,410 - test_submitForm - INFO - setting up name as:  Marco
+2021-05-04 10:13:11,495 - test_submitForm - INFO - setting up email as: marco.moro1@gmail
+2021-05-04 10:13:11,573 - test_submitForm - INFO - setting up password as: 1234
+2021-05-04 10:13:11,631 - test_submitForm - INFO - setting up gender as: Male
+2021-05-04 10:13:11,756 - test_submitForm - INFO - test from application is: ×
+Success! The Form has been submitted successfully!.
+2021-05-04 10:13:11,777 - test_submitForm - INFO - setting up name as:  Gino
+2021-05-04 10:13:11,777 - test_submitForm - INFO - setting up name as:  Gino
+2021-05-04 10:13:11,821 - test_submitForm - INFO - setting up email as: Gino@gmail.com
+2021-05-04 10:13:11,821 - test_submitForm - INFO - setting up email as: Gino@gmail.com
+2021-05-04 10:13:11,879 - test_submitForm - INFO - setting up password as: 1234
+2021-05-04 10:13:11,879 - test_submitForm - INFO - setting up password as: 1234
+2021-05-04 10:13:11,921 - test_submitForm - INFO - setting up gender as: Female
+2021-05-04 10:13:11,921 - test_submitForm - INFO - setting up gender as: Female
+2021-05-04 10:13:12,040 - test_submitForm - INFO - test from application is: ×
+Success! The Form has been submitted successfully!.
+2021-05-04 10:13:12,040 - test_submitForm - INFO - test from application is: ×
+Success! The Form has been submitted successfully!.
+2021-05-04 10:15:54,522 - test_submitForm - INFO - setting up name as:  Marco
+2021-05-04 10:15:54,590 - test_submitForm - INFO - setting up email as: marco.moro1@gmail
+2021-05-04 10:15:54,663 - test_submitForm - INFO - setting up password as: 1234
+2021-05-04 10:15:54,722 - test_submitForm - INFO - setting up gender as: Male
+2021-05-04 10:15:54,860 - test_submitForm - INFO - test from application is: ×
+Success! The Form has been submitted successfully!.
+2021-05-04 10:15:54,882 - test_submitForm - INFO - setting up name as:  Gino
+2021-05-04 10:15:54,882 - test_submitForm - INFO - setting up name as:  Gino
+2021-05-04 10:15:54,932 - test_submitForm - INFO - setting up email as: Gino@gmail.com
+2021-05-04 10:15:54,932 - test_submitForm - INFO - setting up email as: Gino@gmail.com
+2021-05-04 10:15:54,991 - test_submitForm - INFO - setting up password as: 1234
+2021-05-04 10:15:54,991 - test_submitForm - INFO - setting up password as: 1234
+2021-05-04 10:15:55,045 - test_submitForm - INFO - setting up gender as: Female
+2021-05-04 10:15:55,045 - test_submitForm - INFO - setting up gender as: Female
+2021-05-04 10:15:55,166 - test_submitForm - INFO - test from application is: ×
+Success! The Form has been submitted successfully!.
+2021-05-04 10:15:55,166 - test_submitForm - INFO - test from application is: ×
+Success! The Form has been submitted successfully!.
+2021-05-04 10:20:22,504 - test_submitForm - INFO - setting up name as:  Marco
+2021-05-04 10:20:22,574 - test_submitForm - INFO - setting up email as: marco.moro1@gmail
+2021-05-04 10:20:22,662 - test_submitForm - INFO - setting up password as: 1234
+2021-05-04 10:20:22,717 - test_submitForm - INFO - setting up gender as: Male
+2021-05-04 10:20:22,844 - test_submitForm - INFO - test from application is: ×
+Success! The Form has been submitted successfully!.
+2021-05-04 10:20:22,860 - test_submitForm - INFO - setting up name as:  Gino
+2021-05-04 10:20:22,860 - test_submitForm - INFO - setting up name as:  Gino
+2021-05-04 10:20:22,906 - test_submitForm - INFO - setting up email as: Gino@gmail.com
+2021-05-04 10:20:22,906 - test_submitForm - INFO - setting up email as: Gino@gmail.com
+2021-05-04 10:20:22,955 - test_submitForm - INFO - setting up password as: 1234
+2021-05-04 10:20:22,955 - test_submitForm - INFO - setting up password as: 1234
+2021-05-04 10:20:22,993 - test_submitForm - INFO - setting up gender as: Female
+2021-05-04 10:20:22,993 - test_submitForm - INFO - setting up gender as: Female
+2021-05-04 10:20:23,097 - test_submitForm - INFO - test from application is: ×
+Success! The Form has been submitted successfully!.
+2021-05-04 10:20:23,097 - test_submitForm - INFO - test from application is: ×
+Success! The Form has been submitted successfully!.
+2021-05-04 10:23:51,708 - test_submitForm - INFO - setting up name as:  Marco
+2021-05-04 10:23:51,824 - test_submitForm - INFO - setting up email as: marco.moro1@gmail
+2021-05-04 10:23:51,924 - test_submitForm - INFO - setting up password as: 1234
+2021-05-04 10:23:51,989 - test_submitForm - INFO - setting up gender as: Male
+2021-05-04 10:23:52,104 - test_submitForm - INFO - test from application is: ×
+Success! The Form has been submitted successfully!.
+2021-05-04 10:23:52,120 - test_submitForm - INFO - setting up name as:  Gino
+2021-05-04 10:23:52,120 - test_submitForm - INFO - setting up name as:  Gino
+2021-05-04 10:23:52,157 - test_submitForm - INFO - setting up email as: Gino@gmail.com
+2021-05-04 10:23:52,157 - test_submitForm - INFO - setting up email as: Gino@gmail.com
+2021-05-04 10:23:52,202 - test_submitForm - INFO - setting up password as: 1234
+2021-05-04 10:23:52,202 - test_submitForm - INFO - setting up password as: 1234
+2021-05-04 10:23:52,256 - test_submitForm - INFO - setting up gender as: Female
+2021-05-04 10:23:52,256 - test_submitForm - INFO - setting up gender as: Female
+2021-05-04 10:23:52,358 - test_submitForm - INFO - test from application is: ×
+Success! The Form has been submitted successfully!.
+2021-05-04 10:23:52,358 - test_submitForm - INFO - test from application is: ×
+Success! The Form has been submitted successfully!.
+2021-05-04 10:33:44,956 - test_submitForm - INFO - setting up name as:  Marco
+2021-05-04 10:33:45,026 - test_submitForm - INFO - setting up email as: marco.moro1@gmail
+2021-05-04 10:33:45,102 - test_submitForm - INFO - setting up password as: 1234
+2021-05-04 10:33:45,160 - test_submitForm - INFO - setting up gender as: Male
+2021-05-04 10:33:45,280 - test_submitForm - INFO - test from application is: ×
+Success! The Form has been submitted successfully!.
+2021-05-04 10:33:45,299 - test_submitForm - INFO - setting up name as:  Gino
+2021-05-04 10:33:45,299 - test_submitForm - INFO - setting up name as:  Gino
+2021-05-04 10:33:45,341 - test_submitForm - INFO - setting up email as: Gino@gmail.com
+2021-05-04 10:33:45,341 - test_submitForm - INFO - setting up email as: Gino@gmail.com
+2021-05-04 10:33:45,398 - test_submitForm - INFO - setting up password as: 1234
+2021-05-04 10:33:45,398 - test_submitForm - INFO - setting up password as: 1234
+2021-05-04 10:33:45,439 - test_submitForm - INFO - setting up gender as: Female
+2021-05-04 10:33:45,439 - test_submitForm - INFO - setting up gender as: Female
+2021-05-04 10:33:45,545 - test_submitForm - INFO - test from application is: ×
+Success! The Form has been submitted successfully!.
+2021-05-04 10:33:45,545 - test_submitForm - INFO - test from application is: ×
+Success! The Form has been submitted successfully!.
+2021-05-04 10:50:00,956 - test_submitForm - INFO - setting up name as:  Marco
+2021-05-04 10:50:01,025 - test_submitForm - INFO - setting up email as: marco.moro1@gmail
+2021-05-04 10:50:01,094 - test_submitForm - INFO - setting up password as: 1234
+2021-05-04 10:50:01,150 - test_submitForm - INFO - setting up gender as: Male
+2021-05-04 10:50:01,278 - test_submitForm - INFO - test from application is: ×
+Success! The Form has been submitted successfully!.
+2021-05-04 10:50:01,298 - test_submitForm - INFO - setting up name as:  Gino
+2021-05-04 10:50:01,298 - test_submitForm - INFO - setting up name as:  Gino
+2021-05-04 10:50:01,339 - test_submitForm - INFO - setting up email as: Gino@gmail.com
+2021-05-04 10:50:01,339 - test_submitForm - INFO - setting up email as: Gino@gmail.com
+2021-05-04 10:50:01,395 - test_submitForm - INFO - setting up password as: 1234
+2021-05-04 10:50:01,395 - test_submitForm - INFO - setting up password as: 1234
+2021-05-04 10:50:01,440 - test_submitForm - INFO - setting up gender as: Female
+2021-05-04 10:50:01,440 - test_submitForm - INFO - setting up gender as: Female
+2021-05-04 10:50:01,565 - test_submitForm - INFO - test from application is: ×
+Success! The Form has been submitted successfully!.
+2021-05-04 10:50:01,565 - test_submitForm - INFO - test from application is: ×
+Success! The Form has been submitted successfully!.
+2021-05-04 10:58:16,873 - test_submitForm - INFO - setting up name as:  Marco
+2021-05-04 10:58:16,941 - test_submitForm - INFO - setting up email as: marco.moro1@gmail
+2021-05-04 10:58:17,015 - test_submitForm - INFO - setting up password as: 1234
+2021-05-04 10:58:17,071 - test_submitForm - INFO - setting up gender as: Male
+2021-05-04 10:58:17,188 - test_submitForm - INFO - test from application is: ×
+Success! The Form has been submitted successfully!.
+2021-05-04 10:58:17,204 - test_submitForm - INFO - setting up name as:  Gino
+2021-05-04 10:58:17,204 - test_submitForm - INFO - setting up name as:  Gino
+2021-05-04 10:58:17,244 - test_submitForm - INFO - setting up email as: Gino@gmail.com
+2021-05-04 10:58:17,244 - test_submitForm - INFO - setting up email as: Gino@gmail.com
+2021-05-04 10:58:17,292 - test_submitForm - INFO - setting up password as: 1234
+2021-05-04 10:58:17,292 - test_submitForm - INFO - setting up password as: 1234
+2021-05-04 10:58:17,349 - test_submitForm - INFO - setting up gender as: Female
+2021-05-04 10:58:17,349 - test_submitForm - INFO - setting up gender as: Female
+2021-05-04 10:58:17,456 - test_submitForm - INFO - test from application is: ×
+Success! The Form has been submitted successfully!.
+2021-05-04 10:58:17,456 - test_submitForm - INFO - test from application is: ×
+Success! The Form has been submitted successfully!.
+2021-05-04 11:03:29,436 - test_submitForm - INFO - setting up name as:  Marco
+2021-05-04 11:03:29,502 - test_submitForm - INFO - setting up email as: marco.moro1@gmail
+2021-05-04 11:03:29,573 - test_submitForm - INFO - setting up password as: 1234
+2021-05-04 11:03:29,642 - test_submitForm - INFO - setting up gender as: Male
+2021-05-04 11:03:29,762 - test_submitForm - INFO - test from application is: ×
+Success! The Form has been submitted successfully!.
+2021-05-04 11:03:29,963 - test_submitForm - INFO - setting up name as:  Gino
+2021-05-04 11:03:29,963 - test_submitForm - INFO - setting up name as:  Gino
+2021-05-04 11:03:30,007 - test_submitForm - INFO - setting up email as: Gino@gmail.com
+2021-05-04 11:03:30,007 - test_submitForm - INFO - setting up email as: Gino@gmail.com
+2021-05-04 11:03:30,059 - test_submitForm - INFO - setting up password as: 1234
+2021-05-04 11:03:30,059 - test_submitForm - INFO - setting up password as: 1234
+2021-05-04 11:03:30,099 - test_submitForm - INFO - setting up gender as: Female
+2021-05-04 11:03:30,099 - test_submitForm - INFO - setting up gender as: Female
+2021-05-04 11:03:30,243 - test_submitForm - INFO - test from application is: ×
+Success! The Form has been submitted successfully!.
+2021-05-04 11:03:30,243 - test_submitForm - INFO - test from application is: ×
+Success! The Form has been submitted successfully!.
+2021-05-04 15:05:16,974 - test_submitForm - INFO - setting up name as:  Marco
+2021-05-04 15:05:17,072 - test_submitForm - INFO - setting up email as: marco.moro1@gmail
+2021-05-04 15:05:17,166 - test_submitForm - INFO - setting up password as: 1234
+2021-05-04 15:05:17,247 - test_submitForm - INFO - setting up gender as: Male
+2021-05-04 15:05:17,424 - test_submitForm - INFO - test from application is: ×
+Success! The Form has been submitted successfully!.
+2021-05-04 15:05:17,689 - test_submitForm - INFO - setting up name as:  Gino
+2021-05-04 15:05:17,689 - test_submitForm - INFO - setting up name as:  Gino
+2021-05-04 15:05:17,748 - test_submitForm - INFO - setting up email as: Gino@gmail.com
+2021-05-04 15:05:17,748 - test_submitForm - INFO - setting up email as: Gino@gmail.com
+2021-05-04 15:05:17,826 - test_submitForm - INFO - setting up password as: 1234
+2021-05-04 15:05:17,826 - test_submitForm - INFO - setting up password as: 1234
+2021-05-04 15:05:17,880 - test_submitForm - INFO - setting up gender as: Female
+2021-05-04 15:05:17,880 - test_submitForm - INFO - setting up gender as: Female
+2021-05-04 15:05:18,044 - test_submitForm - INFO - test from application is: ×
+Success! The Form has been submitted successfully!.
+2021-05-04 15:05:18,044 - test_submitForm - INFO - test from application is: ×
+Success! The Form has been submitted successfully!.
