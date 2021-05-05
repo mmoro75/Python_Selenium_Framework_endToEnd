@@ -50,3 +50,8 @@ class HomePage:
         # we need to send the data wrapped in list to be executed in test with pytest fixture
 
         return [Dict]  # now it is eturned wrapped into [] as a list to be used in pythest fixture
+
+    # configuring data to use in test in pyetst fixture
+
+    SubmitFormData = [{"firstname": "Marco", "email": "marco.moro1@gmail.com", "password": "123456", "gender": "Male"},
+                          {"firstname": "Gina", "email": "Gina@gmail.com", "password": "123456", "gender": "Female"}]

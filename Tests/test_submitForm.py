@@ -20,14 +20,14 @@ class TestSubmitForm(BaseClass):  # using BaseClass inheritance the script will 
        log = self.getLogger() ## to call logging from inherited BaseClass
        homepage = HomePage(self.driver)
 
-       log.info(f"setting up name as:  {getData[0]}")
-       homepage.getName().send_keys(getData[0])  # getting data index for the values defined in homepage getData
-       log.info(f"setting up email as: {getData[1]}")
-       homepage.getEmail().send_keys(getData[1])
-       log.info(f"setting up password as: {getData[2]}")
-       homepage.getPassword().send_keys(getData[2])
-       log.info(f"setting up gender as: {getData[3]}")
-       self.getGender(getData[3])
+       log.info(f"setting up name as: {getData['firstname']}")
+       homepage.getName().send_keys(getData['firstname'])  # getting data index for the values defined in homepage getData
+       log.info(f"setting up email as: {getData['email']}")
+       homepage.getEmail().send_keys(getData["email"])
+       log.info(f"setting up password as: {getData['password']}")
+       homepage.getPassword().send_keys(getData['password'])
+       log.info(f"setting up gender as: {getData['gender']}")
+       self.getGender(getData['gender'])
        self.driver.find_element_by_xpath("//input[@type='submit']").click()
        # homepage.submit().click()
        # alertMes = homepage.alert().text
@@ -39,10 +39,10 @@ class TestSubmitForm(BaseClass):  # using BaseClass inheritance the script will 
    ## for parametrized test to use multiple data we can use pytest fixturs and put the code where multiple data is needed
    ## not good practice to put it in configtest as not all the tests require multiple data
 
-   @pytest.fixture(params=[("Marco", "marco.moro1@gmail", "1234", "Male"),
-                           ("Gino", "Gino@gmail.com", "1234", "Female")])  # define data set
+   @pytest.fixture(params=HomePage.SubmitFormData)  # using data set from HomePage
    def getData(self, request):
        return request.param  # return params
+   
 
 
 '''
@@ -50,8 +50,10 @@ class TestSubmitForm(BaseClass):  # using BaseClass inheritance the script will 
 @pytest.fixture(params=HomePage.getTestDataExl("Testcase1"))
 def getData(request):
     return request.param  # return params
-
+    
 '''
+
+
         
 
 
