@@ -1,5 +1,4 @@
 import pytest
-import selenium
 from _pytest.outcomes import xfail
 from selenium import webdriver
 

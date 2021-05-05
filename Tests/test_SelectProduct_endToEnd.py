@@ -1,12 +1,6 @@
 # Test case is developed using Page object design meaning each page for our webiste correspond to a Class
 # such Page Objects Class contains all the element as object that can be recalled during test scrips
 
-import pytest
-import selenium
-from selenium import webdriver  # import webdriver from selenium
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions
-from selenium.webdriver.common.by import By
 from utilities.BaseClass import BaseClass  #import BaseClass to inherit setup fixture for your test
 from pageObjects.HomePage import HomePage
 from pageObjects.CheckoutPage import CheckOutPage

@@ -3,12 +3,6 @@
 import logging
 
 import pytest
-import openpyxl
-import selenium
-from selenium import webdriver  # import webdriver from selenium
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions
-from selenium.webdriver.common.by import By
 from utilities.BaseClass import BaseClass  #import BaseClass to inherit setup fixture for your test
 from pageObjects.HomePage import HomePage
 from pageObjects.CheckoutPage import CheckOutPage
@@ -42,7 +36,7 @@ class TestSubmitForm(BaseClass):  # using BaseClass inheritance the script will 
    @pytest.fixture(params=HomePage.SubmitFormData)  # using data set from HomePage
    def getData(self, request):
        return request.param  # return params
-   
+
 
 
 '''

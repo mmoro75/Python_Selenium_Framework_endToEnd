@@ -1,5 +1,5 @@
 # home page class containing all the objects for our website home to be used in test script
-import pytest
+
 from selenium.webdriver.common.by import By
 import openpyxl
 
